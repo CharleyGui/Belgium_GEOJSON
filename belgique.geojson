@@ -7,7 +7,7 @@
                 "ID_0": 23,
                 "ISO": "BEL",
                 "NAME_0": "Belgium",
-                "refnis": 1000
+                "REFNIS": 1000
             },
             "geometry": {
                 "type": "MultiPolygon",
